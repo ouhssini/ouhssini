@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ouhssini
-- 👀 I’m interested in Desktop Applications
-- 🌱 I’m currently learning C#
-- 💞️ I'm looking to collaborate on Desktop Applications development
+- 👀 I'm interested in Websites development
+- 🌱 I’m currently learning Html,Css,JavaScript and PHP
+- 💞️ I'm looking to collaborate on Websites development 
 - 📫 How to reach me - https://www.facebook.com/ahmed.ouhssini.1/
 
 <!---
