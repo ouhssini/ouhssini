@@ -18,7 +18,7 @@
 <a href="https://www.hackerrank.com/ouhssini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ouhssini" height="30" width="40" /></a>
 </p>
 
-<table>
+<!-- <table>
   <tr>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=ouhssini&theme=dark" alt="GitHub Streak Stats" />
@@ -28,5 +28,5 @@
     </td>
     
   </tr>
-</table>
+</table> -->
 
